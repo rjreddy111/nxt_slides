@@ -1,0 +1,31 @@
+.slide-list-item {
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+}
+.active-style {
+  background-color: #dbeafe;
+}
+
+.slider-tab {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 130px;
+  margin: 21px;
+  width: 80%;
+}
+.tab-heading {
+  color: #0967d2;
+  font-weight: 500;
+  font-size: 24px;
+  margin: 0 0 15px 0;
+}
+
+.tab-description {
+  color: #334155;
+  margin: 0px;
+}

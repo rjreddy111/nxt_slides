@@ -1,0 +1,12 @@
+.header-bg-contaienr {
+  background-color: #dbeafe;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+}
+
+.nxt-slide-logo {
+  width: 120px;
+  height: 80px;
+  margin-right: 25px;
+}
